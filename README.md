@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
