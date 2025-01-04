@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!--
 **woohyuckk/woohyuckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome%20to-nl-Woohyukk's%20Github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&&color=gradient&height=300&section=header&text=Woohyukk's%20github&fontAlign=50&fontColor=e3e2e2&stroke=000000&strokeWidth=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woohyuckk&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woohyuckk&show_icons=true&theme=transparent&border_radius)](https://github.com/anuraghazra/github-readme-stats)
 
